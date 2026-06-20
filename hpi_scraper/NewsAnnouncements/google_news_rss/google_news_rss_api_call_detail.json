@@ -1,11 +1,11 @@
 [
   {
     "status_code": 200,
-    "latency_sec": 0.778,
+    "latency_sec": 1.463,
     "success": true,
-    "records_retrieved": 72,
+    "records_retrieved": 77,
     "error": "",
     "rate_limit": "",
-    "company_name": "Singapore Telecommunications"
+    "company_name": "Sea Limited"
   }
 ]

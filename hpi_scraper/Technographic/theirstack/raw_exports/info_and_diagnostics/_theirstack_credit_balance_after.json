@@ -6,32 +6,32 @@
   "response": {
     "status_code": 200,
     "headers": {
-      "Date": "Sat, 20 Jun 2026 12:16:44 GMT",
+      "Date": "Sat, 20 Jun 2026 12:52:00 GMT",
       "Content-Type": "application/json",
       "Content-Length": "87",
       "Connection": "keep-alive",
       "Content-Encoding": "br",
-      "ratelimit": "\"per-second\";r=19;t=1;pk=757365723a6c6c616b613239333740676d61696c2e636f6d, \"per-minute\";r=117;t=16;pk=757365723a6c6c616b613239333740676d61696c2e636f6d",
+      "ratelimit": "\"per-second\";r=19;t=1;pk=757365723a6c6c616b613239333740676d61696c2e636f6d, \"per-minute\";r=116;t=1;pk=757365723a6c6c616b613239333740676d61696c2e636f6d",
       "ratelimit-limit": "20, 120",
       "ratelimit-policy": "\"per-second\";q=20;w=1, \"per-minute\";q=120;w=60",
-      "ratelimit-remaining": "19, 117",
-      "ratelimit-reset": "1, 16",
-      "rndr-id": "ad247a7a-3d5d-4d39",
+      "ratelimit-remaining": "19, 116",
+      "ratelimit-reset": "1, 1",
+      "rndr-id": "ae32805a-b73f-404a",
       "Server": "cloudflare",
       "vary": "Accept-Encoding",
       "x-render-origin-server": "uvicorn",
       "cf-cache-status": "DYNAMIC",
-      "CF-RAY": "a0eab4d45ec38af8-DEL",
+      "CF-RAY": "a0eae8795d215516-DEL",
       "alt-svc": "h3=\":443\"; ma=86400"
     },
-    "latency_sec": 0.901,
+    "latency_sec": 0.787,
     "text": ""
   },
   "json": {
     "ui_credits": 50,
     "used_ui_credits": 0,
     "api_credits": 200,
-    "used_api_credits": 162,
+    "used_api_credits": 177,
     "earliest_expiration": "2026-07-15T11:06:51.461941Z"
   }
 }

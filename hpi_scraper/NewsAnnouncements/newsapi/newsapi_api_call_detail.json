@@ -1,11 +1,11 @@
 [
   {
     "status_code": 426,
-    "latency_sec": 0.632,
+    "latency_sec": 0.85,
     "success": false,
     "records_retrieved": 0,
     "error": "{\"status\":\"error\",\"code\":\"parameterInvalid\",\"message\":\"You are trying to request results too far in the past. Your plan permits you to request articles as far back as 2026-05-19, but you have requested 2025-06-20. You may need to upgrade to a paid plan.\"}",
     "rate_limit": "",
-    "company_name": "Singapore Telecommunications"
+    "company_name": "Sea Limited"
   }
 ]

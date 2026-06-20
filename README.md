@@ -12,7 +12,7 @@ Upload-ready HPI scraper package.
 - `news_announcements_fetch.py`
 - `build_contact_level_structure.py`
 
-The package also includes the latest generated Singtel data/records under the category folders.
+The package also includes the latest generated Sea Limited data/records under the category folders.
 
 ## Input
 

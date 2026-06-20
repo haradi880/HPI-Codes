@@ -8,10 +8,10 @@
     "Rate Limit": "ratelimit-limit: 18; ratelimit-remaining: 17; ratelimit-reset: 1; x-ratelimit-limit-second: 18; x-ratelimit-remaining-second: 17",
     "Companies Processed": "1",
     "Error Rate (%)": "0.00",
-    "Latency (sec)": "2.833 avg",
+    "Latency (sec)": "1.311 avg",
     "Status Code / Error Flag": "200:1",
     "Records Retrieved": "1",
-    "Gated Fields Flag": "Y - headcount_growth_1yr",
+    "Gated Fields Flag": "Y - headcount_growth_1yr; founded_year",
     "missing_info": "",
     "Raw Export Saved (Y/N)": "Y"
   }

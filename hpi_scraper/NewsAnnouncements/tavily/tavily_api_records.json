@@ -8,7 +8,7 @@
     "Rate Limit": "Not returned in response headers",
     "Companies Processed": "1",
     "Error Rate (%)": "0.00",
-    "Latency (sec)": "2.467 avg",
+    "Latency (sec)": "2.526 avg",
     "Status Code / Error Flag": "200:1",
     "Records Retrieved": "5",
     "Gated Fields Flag": "Y - source_publisher",

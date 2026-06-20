@@ -11,7 +11,7 @@
     "Contacts Matched": "0",
     "Match Rate (%)": "0.00",
     "Error Rate (%)": "100.00",
-    "Latency (sec)": "1.046 total seed latency",
+    "Latency (sec)": "1.440 total seed latency",
     "Status Code / Error Flag": "FullEnrich:403; Apollo fallback:403",
     "Records Retrieved": "0",
     "Gated Fields Flag": "Y - seed contact search blocked by provider credits/plan; no person records available to enrich.",

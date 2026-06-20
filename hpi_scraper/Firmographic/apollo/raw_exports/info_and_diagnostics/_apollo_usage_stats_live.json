@@ -6,36 +6,36 @@
   "response": {
     "status_code": 200,
     "headers": {
-      "Date": "Sat, 20 Jun 2026 12:15:37 GMT",
+      "Date": "Sat, 20 Jun 2026 12:51:09 GMT",
       "Content-Type": "application/json; charset=utf-8",
       "Transfer-Encoding": "chunked",
       "Connection": "keep-alive",
       "Cache-Control": "max-age=0, private, must-revalidate",
-      "content-security-policy": "frame-ancestors 'self' chrome-extension://alhgpfoeiimagjlnfekdhkjlkiomcapa chrome-extension://ececkagaccnfmkopaiemklekhoimmgpn *.salesforce.com *.lightning.force.com; report-uri https://o101058.ingest.us.sentry.io/api/222018/security/?sentry_key=86bb17dd8c2449719dd6b498f3431191&sentry_environment=production&sentry_release=1c9c409ce8d0848669a41d82645d5bb98e5c6d0b",
-      "etag": "W/\"263231289444935b3b46d2108af67348\"",
-      "Set-Cookie": "X-CSRF-TOKEN=ZCjdD8niIpvug0aRm5UppjQ_g2I66GyDMRDy_2LK6FOrTCf4dh0x52xli2D3WoLQBxNBIhIjLwe2GZTpwFHy4A; path=/; secure; SameSite=Lax, _leadgenie_session=f1EHW0ZKoKTMWKwA2u%2FaXkp8qlbqdQwnwbwme8POWVDhp%2FUf%2BLkgykXQQrPgEnBW1LKW3TF5ZS6UnjaezDRtr19%2BPtC334eom3nl5Q2qHNpW7uFwqLLSaUVGPz0O1rVP9gpaJZfPtxwSCkETVfpongyKIPMalFyhsZZ7tZzfuhSmGdQYxCj6gvabG%2BuEi4rsxlKNfMnC5tbw1n%2F8dRC23gT6TYl6LjBJDlPEY1ENp9KH7RpHHO6HQa2FXNOuMwZkOYpdH%2BuuVuPZpyREOScng5xxEO7berrIcZE%3D--vmPL1etD7kFnXKn%2F--TcZAEcuRYtEAhSqy0Yj0Ow%3D%3D; path=/; secure; HttpOnly; SameSite=None, __cf_bm=u1GqGdPxGbN0Zl2AZmDJ8D87.fX24LlnHTtwfxAf0EQ-1781957736.7184014-1.0.1.1-OR4xAmUP8prG4M5.rFgaSnUwtXGp38PWUADDovKN6PLYT7mXePihdR_Zmcna8_ozgnarKB6aQV96WGYkyN946KxjrlsGecpiFGmNjk4dJCNr2apSxSOj9Yk1EjAB4.nQ; HttpOnly; SameSite=None; Secure; Path=/; Domain=apollo.io; Expires=Sat, 20 Jun 2026 12:45:37 GMT",
+      "content-security-policy": "frame-ancestors 'self' chrome-extension://alhgpfoeiimagjlnfekdhkjlkiomcapa chrome-extension://ececkagaccnfmkopaiemklekhoimmgpn *.salesforce.com *.lightning.force.com; report-uri https://o101058.ingest.us.sentry.io/api/222018/security/?sentry_key=86bb17dd8c2449719dd6b498f3431191&sentry_environment=production&sentry_release=205f280405639afb7ac747a0e2fbb1ce3b1fae83",
+      "etag": "W/\"f410ae0c111dc1892f7031b40dd516bb\"",
+      "Set-Cookie": "X-CSRF-TOKEN=dqE4xMMJnUU6CXRRLFUisEsfTn3NoGTD12s9Sh4B0nQHzg2VZ14Sp1QIURK0KLQq1-MOlLdrjE2-Ynzz66lawA; path=/; secure; SameSite=Lax, _leadgenie_session=wHzl4QQCqlqL9Ooh5JsZGV2hVbmhPlh9EfrxTN9Vp7%2BZkRgN4ohi%2BUDjclOAJCqYMtUGpMtt3auufdy9VpQDFMbJALJhWq1E1qTSJHowqhZHCRsybK5RCPqRuRwCwTCMi1sQJnXTotspfQfu7ROWove4BhW4F5COgyK%2B95Duhb%2FnF67x4zIGsu31UqYiqW1lZXEv8JmBuIOK50admMfpKHRTsMf9brWo%2FMH%2BCBCLvC%2F3y9vrqQaeE8zRDyXT%2F2Ov%2FkQezrN7UAWv%2BEOaAB8Vfq4hVQejDasIWeg%3D--JdnuHRc014fptG32--kcAD4QqvxTnXbnbUHoCi5g%3D%3D; path=/; secure; HttpOnly; SameSite=None, __cf_bm=8pf4AJsN2q0RAKhtYjZMHoIdDKjhByGoWV1gXKm8ylg-1781959869.1135504-1.0.1.1-gyTZifq7o.QrpxVR96FIW6kE1jMESWeTTVzwf8GVihJ7zFfWZde0.7C9QeSgvmxQNh7qyPmo1PyHNcW5aYywfR14gAJ700g4h1bTRa5Yfgk.7T.yH2CYnc66GapPjFop; HttpOnly; SameSite=None; Secure; Path=/; Domain=apollo.io; Expires=Sat, 20 Jun 2026 13:21:09 GMT",
       "strict-transport-security": "max-age=31536000",
       "vary": "Origin",
-      "x-24-hour-requests-left": "599",
-      "x-24-hour-usage": "1",
+      "x-24-hour-requests-left": "598",
+      "x-24-hour-usage": "2",
       "x-content-type-options": "nosniff",
       "x-frame-options": "ALLOWALL",
-      "x-hourly-requests-left": "199",
-      "x-hourly-usage": "1",
+      "x-hourly-requests-left": "198",
+      "x-hourly-usage": "2",
       "x-minute-requests-left": "49",
       "x-minute-usage": "1",
       "x-rate-limit-24-hour": "600",
       "x-rate-limit-hourly": "200",
       "x-rate-limit-minute": "50",
-      "x-request-id": "51a84f43-2ad3-4777-bd33-868505737366",
-      "x-runtime": "0.557582",
-      "x-transaction-id": "c59af112-8af1-4976-aa33-7d8076eb8613",
+      "x-request-id": "3b3fbba9-9bfd-4c85-b1c2-a5428b00beda",
+      "x-runtime": "0.179405",
+      "x-transaction-id": "718d8929-dc5b-426b-9631-d86ba54e9d01",
       "cf-cache-status": "DYNAMIC",
       "Content-Encoding": "gzip",
       "Server": "cloudflare",
-      "CF-RAY": "a0eab32e7a4f9db7-DEL"
+      "CF-RAY": "a0eae73dfa87a834-DEL"
     },
-    "latency_sec": 1.14,
+    "latency_sec": 0.728,
     "text": ""
   },
   "json": {
@@ -416,13 +416,13 @@
     "[\"api/v1/organizations\", \"enrich\"]": {
       "day": {
         "limit": 600,
-        "consumed": 1,
-        "left_over": 599
+        "consumed": 2,
+        "left_over": 598
       },
       "hour": {
         "limit": 200,
-        "consumed": 1,
-        "left_over": 199
+        "consumed": 2,
+        "left_over": 198
       },
       "minute": {
         "limit": 50,
@@ -450,13 +450,13 @@
     "[\"api/v1/organizations\", \"job_postings\"]": {
       "day": {
         "limit": 600,
-        "consumed": 0,
-        "left_over": 600
+        "consumed": 6,
+        "left_over": 594
       },
       "hour": {
         "limit": 200,
-        "consumed": 0,
-        "left_over": 200
+        "consumed": 6,
+        "left_over": 194
       },
       "minute": {
         "limit": 50,

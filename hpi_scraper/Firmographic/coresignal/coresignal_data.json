@@ -1,18 +1,18 @@
 [
   {
-    "company_name": "Singapore Telecommunications",
-    "legal_name": "Singapore Telecommunications Limited",
-    "website_domain": "singtel.com",
-    "linkedin_url": "https://sg.linkedin.com/company/singtel",
-    "employee_count": "8341",
+    "company_name": "Sea Limited",
+    "legal_name": "Sea Limited",
+    "website_domain": "sea.com",
+    "linkedin_url": "https://sg.linkedin.com/company/seagrp",
+    "employee_count": "3680",
     "headcount_growth_1yr": "",
-    "revenue_or_revenue_band": "10534059382 USD",
-    "industry": "Telecommunications",
-    "sub_industry_naics_sic": "telecommunications | internet | computer networking | wireless technology | it & services | satellite services | digital | mobile infotainment | after-sales service | enterprise solutions | r&d | cyber security | internet of things | digital marketing | cloud computing | smart cities | communications infrastructure | enterprise applications | mobile | communications | appliances | broadband | connectivity | distribution | ecommerce | wearables | fixed | communications group | data",
-    "hq_location": "10 Eunos Road 8; Singapore Post Centre #07-31; Singapore, 408600, SG",
-    "number_of_sites_locations_sg_global": "4",
-    "founded_year": "1879",
+    "revenue_or_revenue_band": "19379298000 USD",
+    "industry": "Technology, Information and Internet",
+    "sub_industry_naics_sic": "technology | digital content | ecommerce | payments | consumer internet | financial services | digital entertainment | digital payments | e-commerce | games | mobile-app | social-networks | sport | messaging | mobile | NAICS: 51 | 518 | SIC: 73 | 737",
+    "hq_location": "1 Fusionopolis Pl; #17-01; Singapore, Singapore 138522, SG",
+    "number_of_sites_locations_sg_global": "5",
+    "founded_year": "",
     "ownership_type": "Public",
-    "funding_total": "1683491606 USD"
+    "funding_total": "9531000000 USD"
   }
 ]

@@ -3,7 +3,7 @@
     "method": "GET",
     "url": "https://newsapi.org/v2/everything",
     "params": {
-      "q": "\"Singapore Telecommunications\" OR \"singtel.com\" (funding OR expansion OR launch OR leadership OR acquisition OR merger OR partnership OR appointed OR opens)",
+      "q": "\"Sea Limited\" OR \"sea.com\" (funding OR expansion OR launch OR leadership OR acquisition OR merger OR partnership OR appointed OR opens)",
       "from": "2025-06-20",
       "language": "en",
       "sortBy": "publishedAt",
@@ -14,7 +14,7 @@
   "response": {
     "status_code": 426,
     "headers": {
-      "Date": "Sat, 20 Jun 2026 12:17:01 GMT",
+      "Date": "Sat, 20 Jun 2026 12:52:12 GMT",
       "Content-Type": "application/json; charset=utf-8",
       "Content-Length": "255",
       "Connection": "keep-alive",
@@ -24,11 +24,11 @@
       "X-Cached-Result": "false",
       "cf-cache-status": "DYNAMIC",
       "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=G29TsuYcHRLJRai2lL6cQwdsEQgaYBjcKW56wgYCjH2WQPZWc24PeMivtGeadj07qyiOr%2BA2nfQ8vHlWmmyVMxi8HPfttTTlJjboKmZDe8C0EvM5MQ5a6iOv7uHf\"}]}",
+      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=TxUNAvHcBGAUtxCcmkwxF1BsmxFgmVWxrvHvxD4%2Bb%2FAnFaTpey5guFiUTSvesKohPp0G%2FrmRb4H9WesopAXMXTzMuZfSc%2BxSioUw7IxDdsiFLSB3u4bdNH4S%2B2tR\"}]}",
       "Server": "cloudflare",
-      "CF-RAY": "a0eab53f1bd02698-BOM"
+      "CF-RAY": "a0eae8c59eee20fe-BOM"
     },
-    "latency_sec": 0.632,
+    "latency_sec": 0.85,
     "text": ""
   },
   "json": {

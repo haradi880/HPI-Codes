@@ -1,16 +1,16 @@
 [
   {
     "status_code": 403,
-    "latency_sec": 1.046,
+    "latency_sec": 1.44,
     "success": false,
     "error": "{\"code\":\"error.not_enough_credits\",\"message\":\"Not enough credits\"}",
     "rate_limit": "",
     "fallback_status_code": 403,
     "fallback_error": "{\"error\":\"api/v1/mixed_people/search is not accessible with this api_key on a free plan. Please upgrade your plan from https://app.apollo.io/.\",\"error_code\":\"API_INACCESSIBLE\"}",
     "seed_source": "fullenrich",
-    "company_name": "Singapore Telecommunications",
-    "domain": "singtel.com",
-    "company_linkedin_url": "https://www.linkedin.com/company/singtel",
+    "company_name": "Sea Limited",
+    "domain": "sea.com",
+    "company_linkedin_url": "https://www.linkedin.com/company/sea-ltd",
     "records_retrieved": 0
   }
 ]

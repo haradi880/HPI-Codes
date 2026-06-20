@@ -4,14 +4,14 @@
     "Category": "Firmographic",
     "API Available (Y/N)": "Y",
     "Authentication Type": "API Key in x-api-key header",
-    "Credits Used": "1 organization enrich API units consumed today; 1 consumed this hour",
-    "Rate Limit": "organization enrich day 600 consumed 1 left 599; hour 200 consumed 1 left 199; minute 50 left 49",
+    "Credits Used": "2 organization enrich API units consumed today; 2 consumed this hour",
+    "Rate Limit": "organization enrich day 600 consumed 2 left 598; hour 200 consumed 2 left 198; minute 50 left 49",
     "Companies Processed": "1",
     "Error Rate (%)": "0.00",
-    "Latency (sec)": "1.784 avg",
+    "Latency (sec)": "1.419 avg",
     "Status Code / Error Flag": "200:1",
     "Records Retrieved": "1",
-    "Gated Fields Flag": "Y - number_of_sites_locations_sg_global; funding_total",
+    "Gated Fields Flag": "Y - website_domain; revenue_or_revenue_band; number_of_sites_locations_sg_global; ownership_type; funding_total",
     "missing_info": "Apollo enrichment does not return funding_total for these public companies. Apollo also returns retail_location_count, not a full SG/global site-count field; zero retail counts are treated as unavailable, not as real zero locations.",
     "Raw Export Saved (Y/N)": "Y"
   }
