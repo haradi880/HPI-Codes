@@ -36,4 +36,10 @@ pip install -r requirements.txt
 python run_all.py
 ```
 
-Each scraper writes JSON, XLSX, raw exports, API call detail, and API report files inside its category folder.
+The uploaded sample keeps only Excel outputs (`.xlsx`) plus runnable code. JSON/raw API exports are intentionally excluded.
+
+## Sea Limited Output Notes
+
+Some Excel fields are blank because the provider response did not include those fields. For example, Apollo and Coresignal do not return every firmographic field, and TheirStack/Coresignal technographic responses do not return IT spend.
+
+Contact-level has no matched contacts in the current sample because FullEnrich returned `not_enough_credits`, and the Apollo people-search fallback is not available on the current Apollo plan. The API report workbook records that blocker.
