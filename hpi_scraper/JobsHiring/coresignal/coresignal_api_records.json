@@ -1,0 +1,18 @@
+[
+  {
+    "Tool Name": "Coresignal Multi-source Jobs API",
+    "Category": "Jobs / Hiring",
+    "API Available (Y/N)": "Y",
+    "Authentication Type": "API Key in apikey header",
+    "Credits Used": "Estimated 3 search credits + 10 collect credits",
+    "Rate Limit": "ratelimit-limit: 18; ratelimit-remaining: 17; ratelimit-reset: 1; x-ratelimit-limit-second: 18; x-ratelimit-remaining-second: 17",
+    "Companies Processed": "1",
+    "Error Rate (%)": "0.00",
+    "Latency (sec)": "12.707 avg",
+    "Status Code / Error Flag": "200:1",
+    "Records Retrieved": "349",
+    "Gated Fields Flag": "N",
+    "missing_info": "Coresignal Jobs API search provides counts; collect endpoint provides job-level location, date, and source URL.",
+    "Raw Export Saved (Y/N)": "Y"
+  }
+]

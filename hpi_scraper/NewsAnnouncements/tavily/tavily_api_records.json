@@ -1,0 +1,18 @@
+[
+  {
+    "Tool Name": "Tavily Search API",
+    "Category": "News / Key Announcements",
+    "API Available (Y/N)": "Y",
+    "Authentication Type": "Bearer token in Authorization header",
+    "Credits Used": "Basic search generally uses fewer credits than advanced search; exact usage depends on Tavily account plan",
+    "Rate Limit": "Not returned in response headers",
+    "Companies Processed": "1",
+    "Error Rate (%)": "0.00",
+    "Latency (sec)": "2.467 avg",
+    "Status Code / Error Flag": "200:1",
+    "Records Retrieved": "5",
+    "Gated Fields Flag": "Y - source_publisher",
+    "missing_info": "Tavily is used with topic=news and time_range=year for last-12-month announcement discovery.",
+    "Raw Export Saved (Y/N)": "Y"
+  }
+]

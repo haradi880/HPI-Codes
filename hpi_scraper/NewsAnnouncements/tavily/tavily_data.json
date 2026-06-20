@@ -1,0 +1,67 @@
+[
+  {
+    "company_name": "Singapore Telecommunications",
+    "website_domain": "singtel.com",
+    "company_linkedin_url": "https://www.linkedin.com/company/singtel",
+    "news_announcements": "Singtel logs 14% rise in underlying profit on Optus, regional partners' boost - Reuters",
+    "event_headline": "Singtel logs 14% rise in underlying profit on Optus, regional partners' boost - Reuters",
+    "event_url": "https://www.reuters.com/world/asia-pacific/singtels-first-half-underlying-profit-rises-14-2025-11-11/",
+    "event_date": "2025-11-11",
+    "event_type": "expansion",
+    "source_publisher": "",
+    "relevance_confidence": "High",
+    "coverage_depth_events_per_account_last_12mo": "5"
+  },
+  {
+    "company_name": "Singapore Telecommunications",
+    "website_domain": "singtel.com",
+    "company_linkedin_url": "https://www.linkedin.com/company/singtel",
+    "news_announcements": "Freeport-McMoRan (FCX) Moves 15.5% Higher: Will This Strength Last? - Yahoo.co",
+    "event_headline": "Freeport-McMoRan (FCX) Moves 15.5% Higher: Will This Strength Last? - Yahoo.co",
+    "event_url": "https://sg.finance.yahoo.com/news/first-quantum-minerals-q2-earnings-211325439.html",
+    "event_date": "2025-07-23",
+    "event_type": "other",
+    "source_publisher": "",
+    "relevance_confidence": "Medium",
+    "coverage_depth_events_per_account_last_12mo": "5"
+  },
+  {
+    "company_name": "Singapore Telecommunications",
+    "website_domain": "singtel.com",
+    "company_linkedin_url": "https://www.linkedin.com/company/singtel",
+    "news_announcements": "Singtel profit increases by 14% amid Airtel stake sale - Telecoms.com",
+    "event_headline": "Singtel profit increases by 14% amid Airtel stake sale - Telecoms.com",
+    "event_url": "https://www.telecoms.com/communications-service-provider/singtel-profit-increases-by-14-amid-airtel-stake-sale",
+    "event_date": "2025-08-14",
+    "event_type": "expansion",
+    "source_publisher": "",
+    "relevance_confidence": "Medium",
+    "coverage_depth_events_per_account_last_12mo": "5"
+  },
+  {
+    "company_name": "Singapore Telecommunications",
+    "website_domain": "singtel.com",
+    "company_linkedin_url": "https://www.linkedin.com/company/singtel",
+    "news_announcements": "Singtel expands enterprise push with Brazil office opening - Developing Telecoms",
+    "event_headline": "Singtel expands enterprise push with Brazil office opening - Developing Telecoms",
+    "event_url": "https://www.developingtelecoms.com/telecom-business/operator-news/19723-singtel-expands-enterprise-push-with-brazil-office-opening.html",
+    "event_date": "2026-02-05",
+    "event_type": "expansion",
+    "source_publisher": "",
+    "relevance_confidence": "Medium",
+    "coverage_depth_events_per_account_last_12mo": "5"
+  },
+  {
+    "company_name": "Singapore Telecommunications",
+    "website_domain": "singtel.com",
+    "company_linkedin_url": "https://www.linkedin.com/company/singtel",
+    "news_announcements": "Big-ticket deals lift Singapore M&A as volumes fall - Asian Business Review",
+    "event_headline": "Big-ticket deals lift Singapore M&A as volumes fall - Asian Business Review",
+    "event_url": "https://asianbusinessreview.com/exclusive/big-ticket-deals-lift-singapore-ma-volumes-fall",
+    "event_date": "2026-06-17",
+    "event_type": "M&A",
+    "source_publisher": "",
+    "relevance_confidence": "High",
+    "coverage_depth_events_per_account_last_12mo": "5"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Tool Name": "Exa Search API",
+    "Category": "News / Key Announcements",
+    "API Available (Y/N)": "Y",
+    "Authentication Type": "API Key in x-api-key header",
+    "Credits Used": "Search requests consume Exa account credits based on plan",
+    "Rate Limit": "Not returned in response headers",
+    "Companies Processed": "1",
+    "Error Rate (%)": "0.00",
+    "Latency (sec)": "1.836 avg",
+    "Status Code / Error Flag": "200:1",
+    "Records Retrieved": "5",
+    "Gated Fields Flag": "Y - source_publisher",
+    "missing_info": "Exa is used for web/news discovery with last-12-month filtering where provider dates are available.",
+    "Raw Export Saved (Y/N)": "Y"
+  }
+]

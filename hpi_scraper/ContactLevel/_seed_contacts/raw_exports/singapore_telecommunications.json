@@ -1,0 +1,65 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "https://app.fullenrich.com/api/v2/people/search",
+    "params": {},
+    "payload": {
+      "offset": 0,
+      "limit": 2,
+      "current_company_domains": [
+        {
+          "value": "singtel.com",
+          "exact_match": true,
+          "exclude": false
+        }
+      ],
+      "current_position_seniority_level": [
+        {
+          "value": "C-level",
+          "exact_match": false,
+          "exclude": false
+        },
+        {
+          "value": "VP",
+          "exact_match": false,
+          "exclude": false
+        },
+        {
+          "value": "Director",
+          "exact_match": false,
+          "exclude": false
+        },
+        {
+          "value": "Manager",
+          "exact_match": false,
+          "exclude": false
+        }
+      ]
+    }
+  },
+  "response": {
+    "status_code": 403,
+    "headers": {
+      "Date": "Sat, 20 Jun 2026 12:19:01 GMT",
+      "Content-Type": "application/json; charset=utf-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "x-request-id": "decb0317-6735-482e-a1e5-9880dd97fcad",
+      "Server": "cloudflare",
+      "x-do-app-origin": "05ac75ab-2baf-4d2b-8ec8-f357a59736a0",
+      "Cache-Control": "private",
+      "x-do-orig-status": "403",
+      "cf-cache-status": "DYNAMIC",
+      "set-cookie": "__cf_bm=S0EVB27AK9Jlz_alXXYsmXcRhCPKnaxGNRCzyYmyk2w-1781957940.5301008-1.0.1.1-msbYbKR1llr7BUhua7YPd3Rk8yX95XYV5eOXJKQTWUufN3lYxXXNJOIg6NR.jml.YPiUZmRwd_PMsXY7n3XAWnSIw9ing3naY7tHMgPnScxWJP5QLN_GiFJbISVhxfdf; HttpOnly; SameSite=None; Secure; Path=/; Domain=app.fullenrich.com; Expires=Sat, 20 Jun 2026 12:49:01 GMT",
+      "Content-Encoding": "br",
+      "CF-RAY": "a0eab8284d1559dc-DEL",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "latency_sec": 1.046,
+    "text": ""
+  },
+  "json": {
+    "code": "error.not_enough_credits",
+    "message": "Not enough credits"
+  }
+}

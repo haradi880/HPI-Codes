@@ -1,0 +1,46 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "https://api.apollo.io/api/v1/mixed_people/search",
+    "params": {},
+    "payload": {
+      "page": 1,
+      "per_page": 2,
+      "q_organization_domains": "singtel.com",
+      "person_seniorities": [
+        "c_suite",
+        "vp",
+        "director",
+        "manager"
+      ]
+    }
+  },
+  "response": {
+    "status_code": 403,
+    "headers": {
+      "Date": "Sat, 20 Jun 2026 12:19:01 GMT",
+      "Content-Type": "application/json; charset=utf-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Cache-Control": "no-cache",
+      "content-security-policy": "frame-ancestors 'self' chrome-extension://alhgpfoeiimagjlnfekdhkjlkiomcapa chrome-extension://ececkagaccnfmkopaiemklekhoimmgpn *.salesforce.com *.lightning.force.com; report-uri https://o101058.ingest.us.sentry.io/api/222018/security/?sentry_key=86bb17dd8c2449719dd6b498f3431191&sentry_environment=production&sentry_release=205f280405639afb7ac747a0e2fbb1ce3b1fae83",
+      "strict-transport-security": "max-age=31536000",
+      "vary": "Origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "ALLOWALL",
+      "x-request-id": "522d1f78-da34-48fe-94a1-fd519661153c",
+      "x-runtime": "0.016530",
+      "cf-cache-status": "DYNAMIC",
+      "set-cookie": "__cf_bm=cb08N_KLLoG2G5JvxatrDuWZHlvCH7BFj.hdqVBI2Ow-1781957941.6517448-1.0.1.1-bYRduI3kGFL9NlGr0C8IxNbavXj550I6STCUbUhMtlQqu_ytMX0kosz4ZzG5VQ2t9v4f6KXd.P34cSQmRc0AKVPvk3LMk7VD3gFCcMHSN3QdkVmfnnAeP2Cb0k8mbc04; HttpOnly; SameSite=None; Secure; Path=/; Domain=apollo.io; Expires=Sat, 20 Jun 2026 12:49:01 GMT",
+      "Content-Encoding": "gzip",
+      "Server": "cloudflare",
+      "CF-RAY": "a0eab82f5c8fa7a3-DEL"
+    },
+    "latency_sec": 0.621,
+    "text": ""
+  },
+  "json": {
+    "error": "api/v1/mixed_people/search is not accessible with this api_key on a free plan. Please upgrade your plan from https://app.apollo.io/.",
+    "error_code": "API_INACCESSIBLE"
+  }
+}

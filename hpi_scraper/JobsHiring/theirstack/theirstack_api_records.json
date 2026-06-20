@@ -1,0 +1,18 @@
+[
+  {
+    "Tool Name": "TheirStack Job Search API",
+    "Category": "Jobs / Hiring",
+    "API Available (Y/N)": "Y",
+    "Authentication Type": "Bearer token in Authorization header",
+    "Credits Used": "12 API credits used in this run; TheirStack job search consumes 1 credit per returned job",
+    "Rate Limit": "ratelimit: \"per-second\";r=3;t=1;pk=757365723a6c6c616b613239333740676d61696c2e636f6d, \"per-minute\";r=9;t=7;pk=757365723a6c6c616b613239333740676d61696c2e636f6d, \"per-hour\";r=49;t=2647;pk=757365723a6c6c616b613239333740676d61696c2e636f6d, \"per-day\";r=399;t=42247;pk=757365723a6c6c616b613239333740676d61696c2e636f6d; ratelimit-limit: 4, 10, 50, 400; ratelimit-policy: \"per-second\";q=4;w=1, \"per-minute\";q=10;w=60, \"per-hour\";q=50;w=3600, \"per-day\";q=400;w=86400; ratelimit-remaining: 3, 9, 49, 399; ratelimit-reset: 1, 7, 2647, 42247",
+    "Companies Processed": "1",
+    "Error Rate (%)": "0.00",
+    "Latency (sec)": "5.862 avg",
+    "Status Code / Error Flag": "200:1",
+    "Records Retrieved": "12",
+    "Gated Fields Flag": "N",
+    "missing_info": "TheirStack gives total counts via metadata and sampled active job details from job search.",
+    "Raw Export Saved (Y/N)": "Y"
+  }
+]

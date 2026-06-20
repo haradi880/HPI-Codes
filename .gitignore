@@ -1,0 +1,8 @@
+.env
+Api.txt
+Api.csv
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,67 @@
+[
+  {
+    "company_name": "Singapore Telecommunications",
+    "website_domain": "singtel.com",
+    "company_linkedin_url": "https://www.linkedin.com/company/singtel",
+    "news_announcements": "Singtel gets funding boost from government to strengthen AI push, create high-value roles - The Business Times",
+    "event_headline": "Singtel gets funding boost from government to strengthen AI push, create high-value roles - The Business Times",
+    "event_url": "https://www.businesstimes.com.sg/companies-markets/singtel-gets-funding-boost-government-strengthen-ai-push-create-high-value-roles",
+    "event_date": "2026-06-05",
+    "event_type": "funding",
+    "source_publisher": "Young Zhan Heng",
+    "relevance_confidence": "Medium",
+    "coverage_depth_events_per_account_last_12mo": "5"
+  },
+  {
+    "company_name": "Singapore Telecommunications",
+    "website_domain": "singtel.com",
+    "company_linkedin_url": "https://www.linkedin.com/company/singtel",
+    "news_announcements": "Singtel, KKR-owned STT GDC opens its first South Korean data centre to tap AI boom - The Business Times",
+    "event_headline": "Singtel, KKR-owned STT GDC opens its first South Korean data centre to tap AI boom - The Business Times",
+    "event_url": "https://www.businesstimes.com.sg/startups-tech/technology/singtel-kkr-owned-stt-gdc-opens-its-first-south-korean-data-centre-tap-ai-boom",
+    "event_date": "2026-06-16",
+    "event_type": "expansion",
+    "source_publisher": "Shikhar Gupta",
+    "relevance_confidence": "Medium",
+    "coverage_depth_events_per_account_last_12mo": "5"
+  },
+  {
+    "company_name": "Singapore Telecommunications",
+    "website_domain": "singtel.com",
+    "company_linkedin_url": "https://www.linkedin.com/company/singtel",
+    "news_announcements": "KKR, Singtel to fully own data centre powerhouse STT GDC for $6.6 billion amid AI boom | The Straits Times",
+    "event_headline": "KKR, Singtel to fully own data centre powerhouse STT GDC for $6.6 billion amid AI boom | The Straits Times",
+    "event_url": "https://www.straitstimes.com/business/companies-markets/singtel-kkr-consortium-buy-rest-of-st-telemedia-global-data-centres-for-6-6-billion",
+    "event_date": "2026-02-03",
+    "event_type": "funding",
+    "source_publisher": "",
+    "relevance_confidence": "Medium",
+    "coverage_depth_events_per_account_last_12mo": "5"
+  },
+  {
+    "company_name": "Singapore Telecommunications",
+    "website_domain": "singtel.com",
+    "company_linkedin_url": "https://www.linkedin.com/company/singtel",
+    "news_announcements": "Singtel Digital InfraCo’s RE:AI and WEKA partner to deliver sovereign AI infrastructure across ASEAN, The AI-Native Telco | TelecomTV",
+    "event_headline": "Singtel Digital InfraCo’s RE:AI and WEKA partner to deliver sovereign AI infrastructure across ASEAN, The AI-Native Telco | TelecomTV",
+    "event_url": "https://www.telecomtv.com/content/ai/singtel-digital-infraco-s-re-ai-and-weka-partner-to-deliver-sovereign-ai-infrastructure-across-asean-55635/",
+    "event_date": "2026-06-10",
+    "event_type": "expansion",
+    "source_publisher": "Singtel",
+    "relevance_confidence": "Medium",
+    "coverage_depth_events_per_account_last_12mo": "5"
+  },
+  {
+    "company_name": "Singapore Telecommunications",
+    "website_domain": "singtel.com",
+    "company_linkedin_url": "https://www.linkedin.com/company/singtel",
+    "news_announcements": "Singtel launches US$250M AI growth fund - The Business Times",
+    "event_headline": "Singtel launches US$250M AI growth fund - The Business Times",
+    "event_url": "https://www.businesstimes.com.sg/companies-markets/singtel-unit-launches-us250-million-global-ai-growth-fund",
+    "event_date": "2026-03-13",
+    "event_type": "funding",
+    "source_publisher": "Shikhar Gupta",
+    "relevance_confidence": "Medium",
+    "coverage_depth_events_per_account_last_12mo": "5"
+  }
+]

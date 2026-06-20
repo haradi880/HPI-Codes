@@ -1,0 +1,18 @@
+[
+  {
+    "Tool Name": "Google News RSS",
+    "Category": "News / Key Announcements",
+    "API Available (Y/N)": "Y",
+    "Authentication Type": "No API key required",
+    "Credits Used": "0 API credits; public RSS fetch only",
+    "Rate Limit": "Not returned in response headers",
+    "Companies Processed": "1",
+    "Error Rate (%)": "0.00",
+    "Latency (sec)": "0.778 avg",
+    "Status Code / Error Flag": "200:1",
+    "Records Retrieved": "5",
+    "Gated Fields Flag": "N",
+    "missing_info": "Google News RSS is unofficial/no-key RSS discovery. URLs may point to Google News redirect links instead of clean publisher URLs.",
+    "Raw Export Saved (Y/N)": "Y"
+  }
+]

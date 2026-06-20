@@ -1,0 +1,39 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://newsapi.org/v2/everything",
+    "params": {
+      "q": "\"Singapore Telecommunications\" OR \"singtel.com\" (funding OR expansion OR launch OR leadership OR acquisition OR merger OR partnership OR appointed OR opens)",
+      "from": "2025-06-20",
+      "language": "en",
+      "sortBy": "publishedAt",
+      "pageSize": 5
+    },
+    "payload": {}
+  },
+  "response": {
+    "status_code": 426,
+    "headers": {
+      "Date": "Sat, 20 Jun 2026 12:17:01 GMT",
+      "Content-Type": "application/json; charset=utf-8",
+      "Content-Length": "255",
+      "Connection": "keep-alive",
+      "Cache-Control": "no-cache",
+      "Pragma": "no-cache",
+      "Expires": "-1",
+      "X-Cached-Result": "false",
+      "cf-cache-status": "DYNAMIC",
+      "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=G29TsuYcHRLJRai2lL6cQwdsEQgaYBjcKW56wgYCjH2WQPZWc24PeMivtGeadj07qyiOr%2BA2nfQ8vHlWmmyVMxi8HPfttTTlJjboKmZDe8C0EvM5MQ5a6iOv7uHf\"}]}",
+      "Server": "cloudflare",
+      "CF-RAY": "a0eab53f1bd02698-BOM"
+    },
+    "latency_sec": 0.632,
+    "text": ""
+  },
+  "json": {
+    "status": "error",
+    "code": "parameterInvalid",
+    "message": "You are trying to request results too far in the past. Your plan permits you to request articles as far back as 2026-05-19, but you have requested 2025-06-20. You may need to upgrade to a paid plan."
+  }
+}

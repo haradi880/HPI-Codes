@@ -1,0 +1,11 @@
+source_rank,company_name,domain,linkedin_url,source_basis
+1,DBS Group,dbs.com,https://www.linkedin.com/company/dbs-bank,Wikipedia / LinkedIn
+2,Singapore Telecommunications,singtel.com,https://www.linkedin.com/company/singtel,User provided company list
+3,United Overseas Bank,uobgroup.com,https://www.linkedin.com/company/uob,User provided company list
+4,ST Engineering,stengg.com,https://www.linkedin.com/company/st-engineering,User provided company list
+5,Toyota Motor Corporation,global.toyota,https://www.linkedin.com/company/toyota,User provided company list
+6,Sony Group Corporation,sony.com,https://www.linkedin.com/company/sony,User provided company list
+7,Samsung Electronics,samsung.com,https://www.linkedin.com/company/samsung-electronics,User provided company list
+8,SK Hynix,skhynix.com,https://www.linkedin.com/company/sk-hynix,User provided company list
+9,Infosys,infosys.com,https://www.linkedin.com/company/infosys,User provided company list
+10,BHP,bhp.com,https://www.linkedin.com/company/bhp,User provided company list

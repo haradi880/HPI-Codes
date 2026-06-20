@@ -1,0 +1,11 @@
+[
+  {
+    "status_code": 200,
+    "latency_sec": 2.467,
+    "success": true,
+    "records_retrieved": 5,
+    "error": "",
+    "rate_limit": "",
+    "company_name": "Singapore Telecommunications"
+  }
+]
