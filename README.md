@@ -42,4 +42,4 @@ The uploaded sample keeps only Excel outputs (`.xlsx`) plus runnable code. JSON/
 
 Some Excel fields are blank because the provider response did not include those fields. For example, Apollo and Coresignal do not return every firmographic field, and TheirStack/Coresignal technographic responses do not return IT spend.
 
-Contact-level has no matched contacts in the current sample because FullEnrich returned `not_enough_credits`, and the Apollo people-search fallback is not available on the current Apollo plan. The API report workbook records that blocker.
+Contact-level now includes the successful FullEnrich rerun with two Sea Limited seed contacts. Email and phone fields remain blank because the provider did not return verified contact details for those people. Apollo people match is still plan-blocked, Prospeo returned no match, and SignalHire has no remaining credits; the individual API report workbooks record those tool-level results.
